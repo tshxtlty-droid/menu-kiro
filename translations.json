@@ -1,0 +1,29 @@
+{
+  "categories": {
+    "Kampanya": { "tr": "Kampanya", "en": "Campaign", "ru": "Акция" },
+    "Frozen": { "tr": "Frozen", "en": "Frozen", "ru": "Фрозен" },
+    "Soğuk İçecekler": { "tr": "Soğuk İçecekler", "en": "Cold Drinks", "ru": "Холодные напитки" },
+    "Lumi Özel": { "tr": "Lumi Özel", "en": "Lumi Special", "ru": "Специальное Lumi" },
+    "Kokteyller": { "tr": "Kokteyller", "en": "Cocktails", "ru": "Коктейли" },
+    "Atıştırmalıklar": { "tr": "Atıştırmalıklar", "en": "Snacks", "ru": "Закуски" },
+    "Tatlılar": { "tr": "Tatlılar", "en": "Desserts", "ru": "Десерты" },
+    "Sıcak Kahveler": { "tr": "Sıcak Kahveler", "en": "Hot Coffees", "ru": "Горячий кофе" },
+    "Soğuk Kahveler": { "tr": "Soğuk Kahveler", "en": "Cold Coffees", "ru": "Холодный кофе" },
+    "Geleneksel Kahveler": { "tr": "Geleneksel Kahveler", "en": "Traditional Coffees", "ru": "Традиционный кофе" },
+    "Sıcak İçecekler": { "tr": "Sıcak İçecekler", "en": "Hot Drinks", "ru": "Горячие напитки" },
+    "Bitki Çayları": { "tr": "Bitki Çayları", "en": "Herbal Teas", "ru": "Травяные чаи" },
+    "Milkshake": { "tr": "Milkshake", "en": "Milkshake", "ru": "Милкшейк" }
+  },
+  "items": {
+    "Tatlı Alana Kahve Bedava": {
+      "tr": { "name": "Tatlı Alana Kahve Bedava", "description": "", "detailedDescription": "Herhangi bir tatlı siparişinizle kahveniz bizden!" },
+      "en": { "name": "Free Coffee with Dessert", "description": "", "detailedDescription": "Your coffee is on us with any dessert order!" },
+      "ru": { "name": "Бесплатный кофе с десертом", "description": "", "detailedDescription": "Ваш кофе за наш счет при заказе любого десерта!" }
+    },
+    "Karpuz Çilek Frozen": {
+      "tr": { "name": "Karpuz Çilek Frozen", "description": "Karpuz ve çilek püresi ile hazırlanan serinletici frozen.", "detailedDescription": "Taptaze karpuz ve çilek püresinin doğal canlılığıyla hazırlanan bu frozen, sıcak günlerde ferah bir mola sunmak için sevgi ve profesyonellikle hazırlanır." },
+      "en": { "name": "Watermelon Strawberry Frozen", "description": "Refreshing frozen made with watermelon and strawberry puree.", "detailedDescription": "This frozen is prepared with the natural vibrancy of fresh watermelon and strawberry puree, crafted with love and professionalism to offer a refreshing break on hot days." },
+      "ru": { "name": "Арбузно-клубничный фрозен", "description": "Освежающий фрозен из арбузного и клубничного пюре.", "detailedDescription": "Этот фрозен приготовлен из свежего арбузного и клубничного пюре с естественной яркостью, с любовью и профессионализмом, чтобы предложить освежающий перерыв в жаркие дни." }
+    }
+  }
+}
